@@ -1,7 +1,7 @@
 
 import openai
 
-client = openai.api_key = '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'  # this is also the default, it can be omitted
+client = openai.api_key = ''  # this is also the default, it can be omitted
 
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ] 
 
